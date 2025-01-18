@@ -14,7 +14,7 @@
 - Implementación experta de **inyección de dependencias** usando **Google Guice**.
 
 ## Proyectos destacados
-- Creación de Cores para modos de juego (Survival, SkyBlock, FullPvP, Practice, BoxPvP).
+- Creación de Cores para modos de juego (Survival, Earth, SkyBlock, FullPvP, Practice, BoxPvP).
 - Creación de minijuegos con sincronización cross-server (BedWars, SkyWars, EggWars, SpeedBuilders, BuildBattle, SquidGames, Pillars Of Fortune, etc).
 - Creación de plugins específicos como casas de subastas, game-passes, sistemas de perfiles, tiendas virtuales, encantamientos especiales, tradeos, etc.
 
