@@ -37,9 +37,12 @@ Nosotros realizamos todo esto de manera rápida y eficiente, sin importar la com
 
 ## 📋 Lo que podemos ofrecer
 - Desarrollo de plugins personalizados que se adapten a las necesidades específicas de tu servidor.
+- Documentación detallada de todo el proyecto, incluyendo READMEs, JavaDocs y Wiki
+- Repositorio de Github con todo el código fuente del proyecto.
+- Varias revisiones o actualizaciones del proyecto gratuitas a elegir por ti.
 - Optimización de código existente para mejorar el rendimiento.
 - Integración con sistemas externos a través de APIs o bases de datos.
-- Soporte continuo y mantenimiento de los plugins desarrollados.
+- Soporte y mantenimiento ilimitado de los proyectos desarrollados
 - Colaboración con otros desarrolladores para mejorar el proyecto.
 
 ## ¿Interesado? 👀
